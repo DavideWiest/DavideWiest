@@ -6,9 +6,9 @@
 #### I can work with ...
 - Python
 - HTML & CSS
+- MongoDB
 - Bootstrap
 - Tailwind CSS
 
-#### I'm learning / will learn ...
+#### I'm learning
 - Javascript
-- MongoDb
