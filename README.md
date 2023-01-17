@@ -15,8 +15,8 @@
 
 #### I'm learning / I want to learn
 - Pytorch
-- Data Science Foundations
-- Rust
+- Data Science
+- Java
 
 ### Check out my super cool badge:
 
