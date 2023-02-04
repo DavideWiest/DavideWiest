@@ -7,7 +7,7 @@
 - Python (Django, Flask, etc.)
 - HTML & CSS
 
-#### Familiar with
+#### Good with
 - MongoDB
 - Bootstrap
 - Tailwind CSS
@@ -18,9 +18,6 @@
 - Data Science
 - Java
 
-### Check out my super cool badge:
-
-![By Davide Wiest](https://github.com/DavideWiest/DavideWiest/blob/main/davidewiest-badge-sm.png?raw=true)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DavideWiest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
