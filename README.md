@@ -5,18 +5,18 @@
 
 #### Proficient in
 - Python (Django, Flask, etc.)
-- HTML & CSS
+- HTML, CSS
 
 #### Good with
 - MongoDB
-- Bootstrap
+- Java
 - Tailwind CSS
 - Javascript
 
 #### I'm learning / I want to learn
 - Pytorch
-- Data Science
-- Java
+- C#
+- Rust
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DavideWiest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
