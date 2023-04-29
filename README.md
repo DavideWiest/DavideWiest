@@ -4,14 +4,15 @@
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
 #### Proficient in
-- Python (Django, Flask, etc.)
+- Python
 - HTML, CSS
 
-#### Good with
+#### Have worked with
 - MongoDB
 - Java
 - Tailwind CSS
 - Javascript
+- Django, Flask
 
 #### I'm learning / I want to learn
 - Pytorch
