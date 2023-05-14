@@ -14,8 +14,7 @@
 - Javascript
 - Django, Flask
 
-#### I'm learning / I want to learn
-- Pytorch
+#### I'm learning / want to learn
 - C#
 - Rust
 
