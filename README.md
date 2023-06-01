@@ -19,5 +19,4 @@
 - Rust
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=DavideWiest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JDJGinc&show_icons=true&hide_border=true&theme=gotham" alt="Davide Wiest" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&hide=css,scss&theme=gotham&hide_border=true"></p>
