@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Davide Wiest
-- 👀 I’m interested in **Web development** and **graphic design**
-- 🌱 Increasing my knowledge around django and tailwind css by working on small personal projects
+- 👀 I’m interested in various stuff
+- 🌱 Increasing my knowledge in various interesting fields
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
 #### Proficient in
