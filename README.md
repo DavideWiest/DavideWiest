@@ -7,7 +7,7 @@
 - Python
 - HTML, CSS
 
-#### Have worked with
+#### Work experience with
 - MongoDB
 - Java
 - Tailwind CSS
@@ -16,6 +16,7 @@
 
 #### I'm learning / want to learn
 - C#
+- Blazor
 - Rust
 
 
