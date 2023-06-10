@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Davide Wiest
 - 👀 I’m interested in various stuff
-- 🌱 Increasing my knowledge in various interesting fields
+- 🌱 Increasing my knowledge in programming
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
 #### Proficient in
