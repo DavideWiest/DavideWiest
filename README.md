@@ -7,16 +7,17 @@
 - Python
 - HTML, CSS
 
-#### Work experience with
+#### Experience with
 - MongoDB
 - Java
-- Tailwind CSS
+- Tailwindcss
 - Javascript
 - Django, Flask
 
 #### I'm learning / want to learn
 - C#
 - Blazor
+- PostgreSQL
 - Rust
 
 
