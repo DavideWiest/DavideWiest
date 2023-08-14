@@ -12,6 +12,7 @@
     <div>
       <h2 align="center"> ⚙️ Frameworks I use </h2>
       Pytorch, Django, Blazor, Flask
+        <img src="https://skillicons.dev/icons?i=django,pytorch,blazor,flaskt&theme=dark" />
     </div>
 </details>
 
@@ -19,7 +20,7 @@
     <summary>🌱 I'm learning / will learn</summary>
     <div>
         <h2 align="center"> 🌱 I'm learning / will learn</h2>
-        C#, Blazor, PostgeSQL, Rust
+        <img src="https://skillicons.dev/icons?i=cs,rs,pytorch,blazor&theme=dark" />
     </div>
 </details>
 
