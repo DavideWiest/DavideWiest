@@ -21,7 +21,7 @@
     <div>
         <h2 align="center"> 🌱 I'm learning / will learn</h2>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=cs,rust,blazor&theme=dark" />
+            <img src="https://skillicons.dev/icons?i=cs,rust,postgres,blazor&theme=dark" />
         </p>
     </div>
 
