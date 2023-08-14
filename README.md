@@ -8,13 +8,13 @@
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
         <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,html,css,javascript,cs,java,tailwindcss,github,mongodb,linkedin,git,blazor&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=python,html,css,javascript,cs,java,mongodb,linkedin,github,git&theme=dark&perline=5" />
         </p>
     </div>
     <div>
       <h2 align="center"> ⚙️ Frameworks I use </h2>
         <p align="center">
-        <img src="https://skillicons.dev/icons?i=django,pytorch,flask,blazor&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=django,pytorch,flask,tailwindcss,blazor&theme=dark" />
         </p>
     </div>
     
