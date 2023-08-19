@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that people can use. Recently, I'm focusing on using LLMs and their use-cases.
+I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Recently, I'm doing research on the quantified self movement.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
