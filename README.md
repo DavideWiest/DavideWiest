@@ -1,7 +1,7 @@
-## 👋 Hi!
+# 👋 Hi!
 I'm a german-croatian student & developer. I primarly like to build systems or products that people can use. Recently, I'm focusing on using LLMs and their use-cases.
 
-- 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
+### 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
 
     
