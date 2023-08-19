@@ -28,7 +28,7 @@ I'm a german-croatian student & developer. I primarly like to build systems or p
 
 <p align="center">
    <!--  <img src="https://github-readme-stats.vercel.app/api?username=DavideWiest&show_icons=true&hide_border=true&theme=gotham" alt="Davide Wiest" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&hide=css,scss&theme=gotham&hide_border=true"></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&hide=css,scss&theme=gotham&hide_border=true&layout=compact"></p>
 
 <!--
 <details>
