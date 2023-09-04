@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Recently, I'm doing research on the quantified self movement.
+I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Recently, I'm building an app with GPT-4.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
