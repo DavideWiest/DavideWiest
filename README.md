@@ -8,7 +8,7 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
 # About me
 
 <div>
-    <h2 align="center"> ⚙️ Technologies I use </h2>
+    <h2 align="center"> ⚙️ Technologies I can work with </h2>
     <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,java,javascript,html,css,linkedin,github,git,django,mongodb,pytorch,flask,tailwindcss,blazor&theme=dark&perline=7" />
     </p>
