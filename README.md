@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm building an app that uses GPT-4.
+I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm writing a framework for higher-level-interaction with LLMs.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
