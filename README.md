@@ -24,7 +24,7 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
    <!--  <img src="https://github-readme-stats.vercel.app/api?username=DavideWiest&show_icons=true&hide_border=true&theme=gotham" alt="Davide Wiest" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&hide=css,scss&theme=gotham&hide_border=true&layout=compact"></p>
 
-* "Most used languages" is skewed because the c# in Blazor applications and private repos are not accounted for.
+* "Most used languages" is biased because a C# and JS code in HTML is not differentiated
 
 <!--
 <details>
