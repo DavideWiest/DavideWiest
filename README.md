@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm writing a framework for higher-level-interaction with LLMs.
+I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm building a "link as bio" platform for projects.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
