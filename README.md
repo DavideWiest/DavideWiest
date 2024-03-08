@@ -22,7 +22,7 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
 <div>
     <h2 align="center"> 🌱 I'm learning / will learn</h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=cs,rust,postgres,blazor&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
     </p>
 </div>
 
