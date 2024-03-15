@@ -10,13 +10,13 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
 <div>
     <h2 align="center"> ⚙️ Technologies I can work with </h2>
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,javascript,html,css,linkedin,github,git,django,mongodb,pytorch,flask,tailwindcss,php,latex,mysql&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,cs,javascript,html,css,linkedin,github,git,django,mongodb,pytorch,flask,tailwindcss,php,latex,mysql&theme=dark&perline=6" />
     </p>
 </div>
 <div>
     <h2 align="center"> ⚙🧠 Application stack </h2>
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,gmail,stackoverflow,windows,latex,md&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,gmail,stackoverflow,windows,latex,md&theme=dark&perline=6" />
     </p>
 </div>
 <div>
