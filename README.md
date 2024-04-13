@@ -14,17 +14,19 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
     </p>
 </div>
 <div>
-    <h2 align="center"> ⚙🧠 Application stack </h2>
+    <h2 align="center"> 🛠️ Favorite Applications </h2>
     <p align="center">
     <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,gmail,stackoverflow,windows,latex,md&theme=dark&perline=6" />
     </p>
 </div>
+<!-- 
 <div>
     <h2 align="center"> 🌱 I'm learning / will learn</h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
+        
     </p>
 </div>
+-->
 
 <p align="center">
    <!--  <img src="https://github-readme-stats.vercel.app/api?username=DavideWiest&show_icons=true&hide_border=true&theme=gotham" alt="Davide Wiest" /> -->
