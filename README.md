@@ -10,7 +10,7 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
 <div>
     <h2 align="center"> ⚙️ Technologies I can work with </h2>
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,javascript,html,css,github,git,django,mongodb,pytorch,tailwindcss,php,latex,mysql&theme=white&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,cs,javascript,html,css,github,git,django,mongodb,pytorch,tailwindcss,php,latex,mysql&theme=dark&perline=7" />
     </p>
 </div>
 <div>
