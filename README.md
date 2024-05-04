@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm building a "link as bio" platform for projects.
+I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm building learning F# and examining a personal knowledge management (PKM) application idea. 
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
