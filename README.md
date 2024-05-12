@@ -3,6 +3,10 @@ I'm a German-Croatian student & developer. I primarly like to build systems or p
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
+<a href="davidewiest.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 ![Profile viewes](https://komarev.com/ghpvc/?username=DavideWiest&color=blue)
 
 # About me
