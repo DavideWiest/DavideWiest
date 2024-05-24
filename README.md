@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm a German-Croatian student & developer. I primarly like to build systems or products that make life easier. Currently, I'm building learning F# and examining a personal knowledge management (PKM) application idea. 
+I'm a German-Croatian student and developer passionate about creating systems and products that simplify life. Currently, I'm learning F# and exploring ideas for a personal knowledge management (PKM) application.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
