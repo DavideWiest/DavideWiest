@@ -1,4 +1,4 @@
-# <img style="height: 2.75rem;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" /> Hi!
+# <img style="height: 2rem;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" /> Hi!
 I'm a German-Croatian student and developer passionate about creating systems and products that simplify life. I am an open-source developer, personal knowledge management enthusiast, and a generalist with a broad range of interests including programming, investing, design, data science, machine learning, writing, and maybe even marketing. 
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
