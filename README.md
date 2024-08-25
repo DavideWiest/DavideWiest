@@ -36,8 +36,6 @@ I'm a student and developer passionate about creating systems and products that 
    <!--  <img src="https://github-readme-stats.vercel.app/api?username=DavideWiest&show_icons=true&hide_border=true&theme=gotham" alt="Davide Wiest" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideWiest&hide=css,scss&theme=gotham&hide_border=true&layout=compact"></p>
 
-* "Most used languages" is biased because a C# and JS code in HTML is not differentiated
-
 <!--
 <details>
 <summary>
