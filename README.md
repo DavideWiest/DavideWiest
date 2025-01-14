@@ -7,8 +7,6 @@ I'm a student and developer passionate about creating "useful" systems. I am an 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-![Profile viewes](https://komarev.com/ghpvc/?username=DavideWiest&color=blue)
-
 # About me
 
 <div>
