@@ -3,10 +3,6 @@ I'm a student and developer passionate about creating "useful" systems. I am an 
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
-<a href="https://davidewiest.medium.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
 # About me
 
 <div>
