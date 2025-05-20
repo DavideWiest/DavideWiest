@@ -1,10 +1,9 @@
 # <img style="height: 2rem; width: 2rem;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" /> Hi!
-I'm a student and developer passionate about creating "useful" systems. I aspire to be a machine learning researcher and have a broad range of interests including programming, investing, mathematics, machine learning and psychology.
+I'm a student and aspire to be a machine learning researcher. I have a broad range of interests including programming, investing, mathematics and psychology. Currently. I'm self-studying machine learning and will be studying at TU Darmstadt in Germany.
 
-- 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
+You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**.
 
-# About me
-
+<!--
 <div>
     <h2 align="center"> ⚙️ Technologies I worked with </h2>
     <p align="center">
@@ -17,6 +16,7 @@ I'm a student and developer passionate about creating "useful" systems. I aspire
     <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,gmail,stackoverflow,windows,latex,md&theme=dark&perline=6" />
     </p>
 </div>
+-->
 <!-- 
 <div>
     <h2 align="center"> 🌱 I'm learning / will learn</h2>
