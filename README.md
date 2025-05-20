@@ -1,5 +1,5 @@
 # <img style="height: 2rem; width: 2rem;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" /> Hi!
-I'm a student and developer passionate about creating "useful" systems. I am an open-source developer, personal knowledge management enthusiast, and aspire to be a generalist with a broad range of interests including programming, investing, mathematics, machine learning and psychology.
+I'm a student and developer passionate about creating "useful" systems. I aspire to be a machine learning researcher with a broad range of interests including programming, investing, mathematics, machine learning and psychology.
 
 - 📫 You can reach me via E-Mail: **[davide.wiest2@gmail.com](mailto:davide.wiest2@gmail.com)**
 
